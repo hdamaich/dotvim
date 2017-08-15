@@ -4,3 +4,12 @@
 [submodule "bundle/Tabular"]
 	path = bundle/Tabular
 	url = https://github.com/godlygeek/tabular.git
+[submodule "/home/kaotar/.vim/bundle/nerdtree"]
+	path = /home/kaotar/.vim/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "/home/kaotar/.vim/bundle/vim-airline"]
+	path = /home/kaotar/.vim/bundle/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "/home/kaotar/.vim/bundle/emmet-vim"]
+	path = /home/kaotar/.vim/bundle/emmet-vim
+	url = https://github.com/mattn/emmet-vim/

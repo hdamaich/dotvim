@@ -108,9 +108,12 @@ endif
 
 set relativenumber
 
-
+autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
 " Add optional packages.
 "
 " The matchit plugin makes the % command work better, but it is not backwards
 " compatible.
 packadd matchit
+nmap <F3> :NERDTree<CR>
+
+colorscheme Tomorrow-Night-Eighties
